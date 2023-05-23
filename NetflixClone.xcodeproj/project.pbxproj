@@ -16,6 +16,7 @@
 		4E116CA42A17AAA4004A36AA /* Movie.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E116CA32A17AAA4004A36AA /* Movie.swift */; };
 		4E116CA62A17AAEB004A36AA /* StandardHomeMovie.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E116CA52A17AAEB004A36AA /* StandardHomeMovie.swift */; };
 		4E116CA82A17AB88004A36AA /* Globals.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E116CA72A17AB88004A36AA /* Globals.swift */; };
+		4E116CAF2A17B388004A36AA /* HomeVM.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E116CAE2A17B388004A36AA /* HomeVM.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		4E116CA32A17AAA4004A36AA /* Movie.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Movie.swift; sourceTree = "<group>"; };
 		4E116CA52A17AAEB004A36AA /* StandardHomeMovie.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StandardHomeMovie.swift; sourceTree = "<group>"; };
 		4E116CA72A17AB88004A36AA /* Globals.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Globals.swift; sourceTree = "<group>"; };
+		4E116CAE2A17B388004A36AA /* HomeVM.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeVM.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -93,6 +95,7 @@
 				4E116CA52A17AAEB004A36AA /* StandardHomeMovie.swift */,
 				4E116C922A17A90D004A36AA /* ContentView.swift */,
 				4E116C9E2A17A96C004A36AA /* HomeView.swift */,
+				4E116CAE2A17B388004A36AA /* HomeVM.swift */,
 			);
 			path = Home;
 			sourceTree = "<group>";
@@ -199,6 +202,7 @@
 			files = (
 				4E116C9F2A17A96C004A36AA /* HomeView.swift in Sources */,
 				4E116C932A17A90D004A36AA /* ContentView.swift in Sources */,
+				4E116CAF2A17B388004A36AA /* HomeVM.swift in Sources */,
 				4E116CA82A17AB88004A36AA /* Globals.swift in Sources */,
 				4E116CA62A17AAEB004A36AA /* StandardHomeMovie.swift in Sources */,
 				4E116CA42A17AAA4004A36AA /* Movie.swift in Sources */,
